@@ -1,4 +1,4 @@
-package com.eurotech.Tests;
+package com.eurotech.Tests.Task01;
 
 import com.eurotech.Utilities.WebDriverFactory;
 import com.github.javafaker.Faker;
