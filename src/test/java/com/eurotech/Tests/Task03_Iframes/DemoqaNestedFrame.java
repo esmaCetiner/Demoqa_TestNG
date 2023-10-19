@@ -1,4 +1,4 @@
-package com.eurotech.Tests.iframes;
+package com.eurotech.Tests.Task03_Iframes;
 
 
 import com.eurotech.Utilities.WebDriverFactory;

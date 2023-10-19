@@ -1,4 +1,4 @@
-package com.eurotech.Tests.Task02;
+package com.eurotech.Tests.Task02_LoginUser;
 
 import com.eurotech.Utilities.WebDriverFactory;
 import org.openqa.selenium.By;
