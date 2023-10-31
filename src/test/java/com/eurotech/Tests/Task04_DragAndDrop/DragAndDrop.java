@@ -1,4 +1,4 @@
-package com.eurotech.Tests.TAsk04_DragAndDrop;
+package com.eurotech.Tests.Task04_DragAndDrop;
 
 import com.eurotech.Pages.DemoqaHomePage;
 import com.eurotech.Pages.Droppable;
