@@ -35,9 +35,6 @@ public class DragAndDrop extends TestBase {
         actions.dragAndDrop(droppable.dragMe,droppable.dropHere).perform();
 
         Assert.assertEquals(droppable.verifyMessage.getText(),"Dropped!");
-
-
-
     }
 
 }
